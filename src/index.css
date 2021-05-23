@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #553055;
+  color: #eee;
 }
 .App {
   background: #4c2a4c;
